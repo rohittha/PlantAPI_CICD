@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SELFSTUDY\\React\\Shipvista\\WaterPlantsProject_May24\\PlantWateringAPI\\PlantWateringAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5556E4B-85B2-44DF-813C-8E33A8279B6F}|PlantWateringAPI\\PlantWateringAPI.csproj|d:\\selfstudy\\react\\shipvista\\waterplantsproject_may24\\plantwateringapi\\plantwateringapi\\plantwateringapi\\controllers\\plantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5556E4B-85B2-44DF-813C-8E33A8279B6F}|PlantWateringAPI\\PlantWateringAPI.csproj|solutionrelative:plantwateringapi\\controllers\\plantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5556E4B-85B2-44DF-813C-8E33A8279B6F}|PlantWateringAPI\\PlantWateringAPI.csproj|d:\\selfstudy\\react\\shipvista\\waterplantsproject_may24\\plantwateringapi\\plantwateringapi\\plantwateringapi\\models\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5556E4B-85B2-44DF-813C-8E33A8279B6F}|PlantWateringAPI\\PlantWateringAPI.csproj|solutionrelative:plantwateringapi\\models\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5556E4B-85B2-44DF-813C-8E33A8279B6F}|PlantWateringAPI\\PlantWateringAPI.csproj|d:\\selfstudy\\react\\shipvista\\waterplantsproject_may24\\plantwateringapi\\plantwateringapi\\plantwateringapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5556E4B-85B2-44DF-813C-8E33A8279B6F}|PlantWateringAPI\\PlantWateringAPI.csproj|solutionrelative:plantwateringapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5556E4B-85B2-44DF-813C-8E33A8279B6F}|PlantWateringAPI\\PlantWateringAPI.csproj|d:\\selfstudy\\react\\shipvista\\waterplantsproject_may24\\plantwateringapi\\plantwateringapi\\plantwateringapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5556E4B-85B2-44DF-813C-8E33A8279B6F}|PlantWateringAPI\\PlantWateringAPI.csproj|solutionrelative:plantwateringapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5556E4B-85B2-44DF-813C-8E33A8279B6F}|PlantWateringAPI\\PlantWateringAPI.csproj|d:\\selfstudy\\react\\shipvista\\waterplantsproject_may24\\plantwateringapi\\plantwateringapi\\plantwateringapi\\plantwateringapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D5556E4B-85B2-44DF-813C-8E33A8279B6F}|PlantWateringAPI\\PlantWateringAPI.csproj|solutionrelative:plantwateringapi\\plantwateringapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5556E4B-85B2-44DF-813C-8E33A8279B6F}|PlantWateringAPI\\PlantWateringAPI.csproj|d:\\selfstudy\\react\\shipvista\\waterplantsproject_may24\\plantwateringapi\\plantwateringapi\\plantwateringapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5556E4B-85B2-44DF-813C-8E33A8279B6F}|PlantWateringAPI\\PlantWateringAPI.csproj|solutionrelative:plantwateringapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5556E4B-85B2-44DF-813C-8E33A8279B6F}|PlantWateringAPI\\PlantWateringAPI.csproj|d:\\selfstudy\\react\\shipvista\\waterplantsproject_may24\\plantwateringapi\\plantwateringapi\\plantwateringapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5556E4B-85B2-44DF-813C-8E33A8279B6F}|PlantWateringAPI\\PlantWateringAPI.csproj|solutionrelative:plantwateringapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5556E4B-85B2-44DF-813C-8E33A8279B6F}|PlantWateringAPI\\PlantWateringAPI.csproj|d:\\selfstudy\\react\\shipvista\\waterplantsproject_may24\\plantwateringapi\\plantwateringapi\\plantwateringapi\\migrations\\20240514140958_plant fields rename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5556E4B-85B2-44DF-813C-8E33A8279B6F}|PlantWateringAPI\\PlantWateringAPI.csproj|solutionrelative:plantwateringapi\\migrations\\20240514140958_plant fields rename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5556E4B-85B2-44DF-813C-8E33A8279B6F}|PlantWateringAPI\\PlantWateringAPI.csproj|d:\\selfstudy\\react\\shipvista\\waterplantsproject_may24\\plantwateringapi\\plantwateringapi\\plantwateringapi\\migrations\\20240514115137_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5556E4B-85B2-44DF-813C-8E33A8279B6F}|PlantWateringAPI\\PlantWateringAPI.csproj|solutionrelative:plantwateringapi\\migrations\\20240514115137_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SELFSTUDY\\React\\Shipvista\\WaterPlantsProject_May24\\PlantWateringAPI\\PlantWateringAPI\\PlantWateringAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PlantWateringAPI\\appsettings.json",
+              "ToolTip": "D:\\SELFSTUDY\\React\\Shipvista\\WaterPlantsProject_May24\\PlantWateringAPI\\PlantWateringAPI\\PlantWateringAPI\\appsettings.json",
+              "RelativeToolTip": "PlantWateringAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T11:29:31.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlantWateringAPI",
+              "DocumentMoniker": "D:\\SELFSTUDY\\React\\Shipvista\\WaterPlantsProject_May24\\PlantWateringAPI\\PlantWateringAPI\\PlantWateringAPI\\PlantWateringAPI.csproj",
+              "RelativeDocumentMoniker": "PlantWateringAPI\\PlantWateringAPI.csproj",
+              "ToolTip": "D:\\SELFSTUDY\\React\\Shipvista\\WaterPlantsProject_May24\\PlantWateringAPI\\PlantWateringAPI\\PlantWateringAPI\\PlantWateringAPI.csproj",
+              "RelativeToolTip": "PlantWateringAPI\\PlantWateringAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-20T11:24:16.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlantsController.cs",
+              "DocumentMoniker": "D:\\SELFSTUDY\\React\\Shipvista\\WaterPlantsProject_May24\\PlantWateringAPI\\PlantWateringAPI\\PlantWateringAPI\\Controllers\\PlantsController.cs",
+              "RelativeDocumentMoniker": "PlantWateringAPI\\Controllers\\PlantsController.cs",
+              "ToolTip": "D:\\SELFSTUDY\\React\\Shipvista\\WaterPlantsProject_May24\\PlantWateringAPI\\PlantWateringAPI\\PlantWateringAPI\\Controllers\\PlantsController.cs",
+              "RelativeToolTip": "PlantWateringAPI\\Controllers\\PlantsController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:53:52.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Plant.cs",
+              "DocumentMoniker": "D:\\SELFSTUDY\\React\\Shipvista\\WaterPlantsProject_May24\\PlantWateringAPI\\PlantWateringAPI\\PlantWateringAPI\\Models\\Plant.cs",
+              "RelativeDocumentMoniker": "PlantWateringAPI\\Models\\Plant.cs",
+              "ToolTip": "D:\\SELFSTUDY\\React\\Shipvista\\WaterPlantsProject_May24\\PlantWateringAPI\\PlantWateringAPI\\PlantWateringAPI\\Models\\Plant.cs",
+              "RelativeToolTip": "PlantWateringAPI\\Models\\Plant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:36:13.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SELFSTUDY\\React\\Shipvista\\WaterPlantsProject_May24\\PlantWateringAPI\\PlantWateringAPI\\PlantWateringAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PlantWateringAPI\\Program.cs",
+              "ToolTip": "D:\\SELFSTUDY\\React\\Shipvista\\WaterPlantsProject_May24\\PlantWateringAPI\\PlantWateringAPI\\PlantWateringAPI\\Program.cs",
+              "RelativeToolTip": "PlantWateringAPI\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:30:38.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\SELFSTUDY\\React\\Shipvista\\WaterPlantsProject_May24\\PlantWateringAPI\\PlantWateringAPI\\PlantWateringAPI\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PlantWateringAPI\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\SELFSTUDY\\React\\Shipvista\\WaterPlantsProject_May24\\PlantWateringAPI\\PlantWateringAPI\\PlantWateringAPI\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "PlantWateringAPI\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:32:53.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240514140958_Plant fields rename.cs",
+              "DocumentMoniker": "D:\\SELFSTUDY\\React\\Shipvista\\WaterPlantsProject_May24\\PlantWateringAPI\\PlantWateringAPI\\PlantWateringAPI\\Migrations\\20240514140958_Plant fields rename.cs",
+              "RelativeDocumentMoniker": "PlantWateringAPI\\Migrations\\20240514140958_Plant fields rename.cs",
+              "ToolTip": "D:\\SELFSTUDY\\React\\Shipvista\\WaterPlantsProject_May24\\PlantWateringAPI\\PlantWateringAPI\\PlantWateringAPI\\Migrations\\20240514140958_Plant fields rename.cs",
+              "RelativeToolTip": "PlantWateringAPI\\Migrations\\20240514140958_Plant fields rename.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:09:58.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\SELFSTUDY\\React\\Shipvista\\WaterPlantsProject_May24\\PlantWateringAPI\\PlantWateringAPI\\PlantWateringAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PlantWateringAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\SELFSTUDY\\React\\Shipvista\\WaterPlantsProject_May24\\PlantWateringAPI\\PlantWateringAPI\\PlantWateringAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PlantWateringAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:53:33.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240514115137_Initial.cs",
+              "DocumentMoniker": "D:\\SELFSTUDY\\React\\Shipvista\\WaterPlantsProject_May24\\PlantWateringAPI\\PlantWateringAPI\\PlantWateringAPI\\Migrations\\20240514115137_Initial.cs",
+              "RelativeDocumentMoniker": "PlantWateringAPI\\Migrations\\20240514115137_Initial.cs",
+              "ToolTip": "D:\\SELFSTUDY\\React\\Shipvista\\WaterPlantsProject_May24\\PlantWateringAPI\\PlantWateringAPI\\PlantWateringAPI\\Migrations\\20240514115137_Initial.cs",
+              "RelativeToolTip": "PlantWateringAPI\\Migrations\\20240514115137_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:51:38.19Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
